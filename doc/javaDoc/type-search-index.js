@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"theknife","l":"AsciiTable"},{"p":"theknife","l":"GestoreDati"},{"p":"theknife","l":"Recensione"},{"p":"theknife","l":"Ristorante"},{"p":"theknife","l":"Ruolo"},{"p":"theknife","l":"TheKnife"},{"p":"theknife","l":"Utente"}];updateSearchResults();

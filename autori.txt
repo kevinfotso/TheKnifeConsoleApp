@@ -14,11 +14,11 @@ Sede: VA
 Email: ktchidjofotso@studenti.uninsubria.it
 
 
-Cognome: [COGNOME SECONDO MEMBRO]
-Nome: [NOME SECONDO MEMBRO]
+Cognome: Massanova
+Nome:  Alessandro 
 Numero Matricola: [MATRICOLA SECONDO MEMBRO] 
 Sede: VA
-Email: email.secondo]@studenti.uninsubria.it
+Email: amassanva@studenti.uninsubria.it
 
 ================================================================================
 REPOSITORY GITHUB:
