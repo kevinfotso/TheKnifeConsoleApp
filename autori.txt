@@ -16,7 +16,7 @@ Email: ktchidjofotso@studenti.uninsubria.it
 
 Cognome: Massanova
 Nome:  Alessandro 
-Numero Matricola: [MATRICOLA SECONDO MEMBRO] 
+Numero Matricola:760228
 Sede: VA
 Email: amassanva@studenti.uninsubria.it
 
@@ -40,6 +40,3 @@ NOTE:
 - Dipartimento di Scienze Teoriche e Applicate
 - Corso di Studio Triennale in Informatica
 
-Questo progetto implementa una piattaforma per la ricerca di ristoranti 
-che simula alcune delle funzionalità di TheFork, permettendo a clienti 
-e ristoratori di interagire attraverso un sistema di recensioni e preferiti.
