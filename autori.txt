@@ -1,0 +1,45 @@
+================================================================================
+                                THE KNIFE
+                    Piattaforma per la ricerca di ristoranti
+                         Laboratorio Interdisciplinare A
+                            A.A. 2024/2025
+================================================================================
+
+AUTORI DEL PROGETTO:
+--------------------------------------------------------------------------------
+Cognome: TCHIDJO FOTSO
+Nome: KEVIN  
+Numero Matricola: 755906
+Sede: VA
+Email: ktchidjofotso@studenti.uninsubria.it
+
+
+Cognome: [COGNOME SECONDO MEMBRO]
+Nome: [NOME SECONDO MEMBRO]
+Numero Matricola: [MATRICOLA SECONDO MEMBRO] 
+Sede: VA
+Email: email.secondo]@studenti.uninsubria.it
+
+================================================================================
+REPOSITORY GITHUB:
+--------------------------------------------------------------------------------
+Link: https://github.com/kevinfotso/TheKnifeApp.git
+
+================================================================================
+PROJECT MANAGER:
+--------------------------------------------------------------------------------
+TCHIDJO FOTSO KEVIN
+Email:ktchidjofotso@studenti.uninsubria.it
+
+================================================================================
+NOTE:
+--------------------------------------------------------------------------------
+- Progetto sviluppato per il corso di Laboratorio Interdisciplinare A
+- Docente: Prof. Loris Bozzato
+- Università degli Studi dell'Insubria
+- Dipartimento di Scienze Teoriche e Applicate
+- Corso di Studio Triennale in Informatica
+
+Questo progetto implementa una piattaforma per la ricerca di ristoranti 
+che simula alcune delle funzionalità di TheFork, permettendo a clienti 
+e ristoratori di interagire attraverso un sistema di recensioni e preferiti.
