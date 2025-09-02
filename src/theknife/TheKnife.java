@@ -217,8 +217,8 @@ public class TheKnife {
         System.out.print("Tipo cucina (invio per qualsiasi): "); String cucina = emptyToNull(in.nextLine());
         Double pmin = parseDoubleOrNullPrompt("Prezzo minimo (invio per nessuno): ");
         Double pmax = parseDoubleOrNullPrompt("Prezzo massimo (invio per nessuno): ");
-        Boolean del = parseBoolOrNullPrompt("Delivery (true/false/invio): ");
-        Boolean pre = parseBoolOrNullPrompt("Prenotazione online (true/false/invio): ");
+        Boolean del = parseBoolOrNullPrompt("Delivery (si/no/invio): ");
+        Boolean pre = parseBoolOrNullPrompt("Prenotazione online (si/no/invio): ");
         Double med = parseDoubleOrNullPrompt("Media minima stelle (invio per nessuna): ");
 
         List<Ristorante> res = db.cercaRistorante(loc, cucina, pmin, pmax, del, pre, med);
@@ -279,8 +279,8 @@ public class TheKnife {
         double lat = leggiDouble("Latitudine: ");
         double lon = leggiDouble("Longitudine: ");
         double prezzo = leggiDouble("Prezzo medio: ");
-        boolean del = leggiBoolean("Delivery (true/false): ");
-        boolean pre = leggiBoolean("Prenotazione online (true/false): ");
+        boolean del = leggiBoolean("Delivery (si/si): ");
+        boolean pre = leggiBoolean("Prenotazione online (si/no): ");
         String cucina = leggiNonVuota("Tipo cucina: ");
 
         Ristorante r = db.aggiungiRistorante(u.username, nome, naz, citta, indir, lat, lon, prezzo, del, pre, cucina);
