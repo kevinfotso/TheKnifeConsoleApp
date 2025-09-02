@@ -1,11 +1,11 @@
-id,nome,nazione,citta,indirizzo,lat,lon,prezzo_medio,delivery,prenotazione,tipo_cucina,proprietario;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+id,nome,nazione,citta,indirizzo,lat,lon,prezzo_medio,delivery,prenotazione,tipo_cucina,proprietario
+1,Ristorante Il Duomo,Italia,Milano,Corso Vittorio Emanuele 3,454642.0,91900.0,35.0,false,true,Italiana,marco_chef
+2,Bistro Lumi��re,Francia,Parigi,12 Rue de la Paix,488686.0,23320.0,34.0,true,false,Francese,g.russo
+3,La Maison du Goǯt,Francia,Lione,5 Rue Merci��re,457640.0,48357.0,32.0,true,true,Francese,g.russo
+4,Osteria del Porto,Italia,Genova,Via al Mare 12,444048.0,89444.0,28.0,true,false,Italiana,b.loris
+5,Pizzeria Bella Napoli,Italia,Napoli,Vico Secondigliano 8,408522.0,142681.0,12.0,true,true,Italiana,b.loris
+6,Der Berliner Hof,Germania,Berlino,Unter den Linden 75,525170.0,133889.0,27.0,true,false,Tedesca,pcaruso
+7,Steakhaus Rhein,Germania,Colonia,Hohenzollernring 88,509375.0,69603.0,30.0,false,true,Tedesca,pcaruso
+8,Kyoto Garden,Giappone,Kyoto,Shijo Dori 120,350116.0,1357681.0,33.0,true,true,Giapponese,mconti
+9,Sushi Hanami,Giappone,Tokyo,2-11-1 Shibuya,356595.0,1397005.0,29.0,false,true,Giapponese,mconti
+10,Swiss Chalet,Svizzera,Zurigo,Bahnhofstrasse 88,473769.0,85417.0,34.0,true,false,Svizzera,lbianchi
