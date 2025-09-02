@@ -1,5 +1,11 @@
 package theknife;
 
+/**
+ * Autori:
+ * TCHIDJO FOTSO KEVIN - 755906 -  VA
+ * Progetto: TheKnife - Console App (Lab A)
+ */
+
 /** Modello dati per recensione. */
 public class Recensione {
     public int id;

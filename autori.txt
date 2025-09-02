@@ -23,7 +23,7 @@ Email: amassanva@studenti.uninsubria.it
 ================================================================================
 REPOSITORY GITHUB:
 --------------------------------------------------------------------------------
-Link: https://github.com/kevinfotso/TheKnifeApp.git
+Link: https://github.com/kevinfotso/TheKnifeConsoleApp.git
 
 ================================================================================
 PROJECT MANAGER:

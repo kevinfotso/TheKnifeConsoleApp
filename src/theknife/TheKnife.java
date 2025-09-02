@@ -1,5 +1,10 @@
 package theknife;
-
+/**
+ * Autori:
+ * TCHIDJO FOTSO KEVIN - 755906 -  VA
+ * Massanova Alessandro - 760228 - VA
+ * Progetto: TheKnife - Console App (Lab A)
+ */
 import java.nio.file.Path;
 import java.util.*;
 

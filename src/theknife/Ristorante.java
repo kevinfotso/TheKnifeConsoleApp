@@ -1,4 +1,10 @@
 package theknife;
+/**
+ * Autori:
+ * TCHIDJO FOTSO KEVIN - 755906 -  VA
+ * Massanova Alessandro - 760228 - VA
+ * Progetto: TheKnife - Console App (Lab A)
+ */
 
 /** Modello dati per ristorante. */
 public class Ristorante {
