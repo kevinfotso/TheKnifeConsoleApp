@@ -90,7 +90,7 @@
   ================================================================================
 
   Cliente:
-  - Username: m.rossi
+  - Username: m.giorgia
   - Password: 1111
 
   Ristoratore:
