@@ -1,3 +1,11 @@
-id,nome,nazione,citta,indirizzo,lat,lon,prezzo_medio,delivery,prenotazione,tipo_cucina,proprietario
-1,Trattoria La Pergola,Italia,Roma,Via dei Coronari 45,419010.0,124692.0,22.5,true,true,Italiana,marco_chef
-2,Osteria del Porto,Italia,Genova,Via al Mare 12,444048.0,89444.0,28.0,true,false,Italiana,loris.b
+id,nome,nazione,citta,indirizzo,lat,lon,prezzo_medio,delivery,prenotazione,tipo_cucina,proprietario;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;

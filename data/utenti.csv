@@ -1,5 +1,1 @@
 username,password_hash,nome,cognome,data_nascita,domicilio,ruolo
-kevinf,0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c,kevin,fotso,16/04/1997,pavia,CLIENTE
-marco_chef,edee29f882543b956620b26d0ee0e7e950399b1c4222f5de05e06425b4c995e9,marco,rossi,15-02-1988,milano,RISTORATORE
-Alessandro,0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c,Alessandro,Massanova,14-05-2003,varese,CLIENTE
-loris.b,edee29f882543b956620b26d0ee0e7e950399b1c4222f5de05e06425b4c995e9,loris,Bozzato,10-08-1988,Genova,RISTORATORE

@@ -279,7 +279,7 @@ public class TheKnife {
         double lat = leggiDouble("Latitudine: ");
         double lon = leggiDouble("Longitudine: ");
         double prezzo = leggiDouble("Prezzo medio: ");
-        boolean del = leggiBoolean("Delivery (si/si): ");
+        boolean del = leggiBoolean("Delivery (si/no): ");
         boolean pre = leggiBoolean("Prenotazione online (si/no): ");
         String cucina = leggiNonVuota("Tipo cucina: ");
 
